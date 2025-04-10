@@ -1,7 +1,10 @@
+import sys
+print("sys",sys.executable)
 import streamlit as st
 import home
 import ideation
 import research_collection3
+
 
 PAGES = {
     "Home": home,

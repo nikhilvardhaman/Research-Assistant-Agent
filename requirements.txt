@@ -24,3 +24,4 @@ wikipedia
 xmltodict
 semanticscholar
 nest_asyncio
+streamlit
