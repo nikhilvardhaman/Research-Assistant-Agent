@@ -4,12 +4,14 @@ import streamlit as st
 import home
 import ideation
 import research_collection3
+import combined
 
 
 PAGES = {
     "Home": home,
     "Ideation": ideation,
-    "Resource Collection": research_collection3
+    "Resource Collection": research_collection3,
+    "Combined Research Assistant": combined
 }  # Dictionary to map page names to their corresponding modules
 
 def main():
