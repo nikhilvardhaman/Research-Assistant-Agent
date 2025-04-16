@@ -12,13 +12,13 @@ An intelligent research automation tool that takes a user query, expands it, gat
   - **Wikipedia Tool** – Fetches detailed encyclopedia entries
 - The collected content is aggregated and passed to an LLM for **summarization and insight generation**.
 
-## 🧠 Powered By
+## Powered By
 - **Together AI**
 - **Meta LLaMA 3.1**
 - **LangChain** – Agent orchestration and tool integration
 - **YouTube Search APIs**, **Semantic Scholar API**, **Wikipedia API**
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 research-assistant-agent/
@@ -32,7 +32,7 @@ research-assistant-agent/
 └── README.md                 # Project documentation
 ```
 
-## ▶️ How to Run
+## How to Run
 
 1. **Clone the repo**
    ```bash
