@@ -54,11 +54,3 @@ research-assistant-agent/
    ```
 
 5. **Input your query** and get a detailed, multi-source research summary.
-
-## 📄 License
-
-MIT License – Free to use and extend.
-
----
-
-Let me know if you'd like to add usage examples, architecture diagrams, or citation formats in the output.
